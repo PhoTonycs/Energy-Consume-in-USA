@@ -1,11 +1,11 @@
 {
-  "base_url": "/user/photonycs-energy-consume-in-usa-3pdiuuqt/",
+  "base_url": "/binder/jupyter/user/photonycs-energy-consume-in-usa-ist82nhx/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
   "pid": 1,
   "port": 8888,
   "secure": false,
-  "token": "9CTQAq1wS72DYi-HfbaFVQ",
-  "url": "http://0.0.0.0:8888/user/photonycs-energy-consume-in-usa-3pdiuuqt/"
+  "token": "YUdidQw5SKepqu_AxXnsKw",
+  "url": "http://0.0.0.0:8888/binder/jupyter/user/photonycs-energy-consume-in-usa-ist82nhx/"
 }
